@@ -1,0 +1,16 @@
+
+name: nodejs_install
+version: 0.0.1
+language: nodejs
+description: Install dependencies use `npm install`
+public: true
+tags:
+  - nodejs
+  - install
+inputs:
+outputs:
+script_path: ./run.sh  
+  
+template: |  
+  
+  
